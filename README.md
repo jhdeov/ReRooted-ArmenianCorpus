@@ -10,3 +10,7 @@
 | Garbis   Arabatlian | 0:34:25             | x                      |                     |                         |             |
 
 For my first pass, I automatically convert the SRT transcripts into TextGrids (using [SrtToTextgrid](https://github.com/rctatman/SrtToTextgrid)). I then manually clean up the TextGrid to catch missing words and to re-align the the utterance boundaries. It takes around 10hrs to clean up 1hr video. My goal is to this first pass for the first 10 recordings, and then go from there.
+
+The repo contains the cleaned up TextGrids. The accompanying sound file is stored on Google Drive. The link to the sound file is found in the [metadata](/metadata.tsv) file.
+
+Note that in the TextGrid, the testimonial is found on the first tier (*Interviewee*). I cleaned that tier. The Interviewer tier is unprocessed, and less important than the Interviewee tier.
