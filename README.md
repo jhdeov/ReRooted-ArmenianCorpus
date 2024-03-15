@@ -13,6 +13,8 @@
 | Pardy Minassian  | 0:54:00          | x                      |                     |                         |             |
 | Terez Barsoum  | 0:22:18          | x                      |                     |                         |             |
 | Zarouhi Hamalian   | 0:43:29         | x                      |                     |                         |             |
+| Talar Berberian   | 0:56:48         | x                      |                     |                         |             |
+| Talene  | 0:38:52         | x                      |                     |                         |             |
 
 
 For my first pass, I automatically convert the SRT transcripts into TextGrids (using [SrtToTextgrid](https://github.com/rctatman/SrtToTextgrid)). I then manually clean up the TextGrid to catch missing words and to re-align the the utterance boundaries. It takes around 10hrs to clean up 1hr video. My goal is to this first pass for the first 10 recordings, and then go from there.
