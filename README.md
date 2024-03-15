@@ -1,6 +1,6 @@
-# Rerooted: Speech corpus of Syrian Armenian refugee testimonials
+# ReRooted: Speech corpus of Syrian Armenian refugee testimonials
  
- The [Rerooted Archive](https://www.rerooted.org/) is an archive of spoken testimonials by Syrian Armenian refugees. The original archive contains almost 80hrs of transcribed speech. This repository is my workbench for slowly cleaning up transcripts from those recordings, to make them the archive be suitable as a speech corpus for work on linguistics and NLP. 
+ The [ReRooted Archive](https://www.rerooted.org/) is an archive of spoken testimonials by Syrian Armenian refugees. The original archive contains almost 80hrs of transcribed speech. This repository is my workbench for slowly cleaning up transcripts from those recordings, to make them the archive be suitable as a speech corpus for work on linguistics and NLP. 
 
  | Speaker             | Duration (hh:mm:ss) | Converted to TextGrid? | Word/phone-aligned? | Morphologically tagged? | Translated? |
 |---------------------|---------------------|------------------------|---------------------|-------------------------|-------------|
