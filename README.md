@@ -17,6 +17,8 @@
 | Talene               | 0:38:52             | x                    |                      |
 | Vartanoush Shitilian | 0:33:02             | x                    |                      |
 | Anjel Iranian        | 0:45:35             | x                    |                      |
+| Shushanik Nargozian        | 0:20:03             | x                    |                      |
+
 
 
 For my first pass, I automatically convert the SRT transcripts into TextGrids (using [SrtToTextgrid](https://github.com/rctatman/SrtToTextgrid)). I then manually clean up the TextGrid to catch missing words and to re-align the the utterance boundaries. It takes around 10hrs to clean up 1hr video. 
