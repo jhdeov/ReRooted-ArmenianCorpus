@@ -5,7 +5,7 @@
 | Speaker              | Duration (hh:mm:ss) | Interviewee cleaned? | Interviewer cleaned? | Translation? | 
 |----------------------|---------------------|----------------------|----------------------|----------------------|
 | Ani Avakian          | 0:42:56             | x                    |    x                  |         |
-| Ara Boudakian        | 1:04:00             | x                    |                       |        |
+| Ara Boudakian        | 1:04:00             | x                    |     x                  |        |
 | Dikran Sazian        | 1:26:00             | x                    |                    |           |
 | Garbis Arabatlian    | 0:34:25             | x                    |                   |            |
 | Hagop Kereshian      | 0:30:51             | x                    |                   |            |
