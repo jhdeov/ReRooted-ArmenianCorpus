@@ -7,7 +7,7 @@
 | Ani Avakian          | 0:42:56             | x                    |    x                  |         |
 | Ara Boudakian        | 1:04:00             | x                    |     x                  |        |
 | Dikran Sazian        | 1:26:00             | x                    |      x              |           |
-| Garbis Arabatlian    | 0:34:25             | x                    |                   |            |
+| Garbis Arabatlian    | 0:34:25             | x                    |   x                |            |
 | Hagop Kereshian      | 0:30:51             | x                    |                   |            |
 | Kevork Mouradian     | 0:47:50             | x                    |                   |            |
 | Pardy Minassian      | 0:54:00             | x                    |                  |             |
