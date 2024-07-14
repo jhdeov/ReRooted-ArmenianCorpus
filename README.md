@@ -9,7 +9,7 @@
 | Dikran Sazian        | 1:26:00             | x                    |      x              |           |
 | Garbis Arabatlian    | 0:34:25             | x                    |   x                |            |
 | Hagop Kereshian      | 0:30:51             | x                    |    x              |            |
-| Kevork Mouradian     | 0:47:50             | x                    |                   |            |
+| Kevork Mouradian     | 0:47:50             | x                    |    x               |            |
 | Pardy Minassian      | 0:54:00             | x                    |                  |             |
 | Terez Barsoum        | 0:22:18             | x                    |                   |            |
 | Zarouhi Hamalian     | 0:43:29             | x                    |                   |            |
