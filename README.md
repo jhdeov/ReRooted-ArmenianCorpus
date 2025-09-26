@@ -13,7 +13,7 @@
 | Pardy Minassian      | 0:54:00             | x                    |    x              |             |
 | Terez Barsoum        | 0:22:18             | x                    |    x               |            |
 | Zarouhi Hamalian     | 0:43:29             | x                    |     x              |            |
-| Talar Berberian      | 0:56:48             | x                    |                   |            |
+| Talar Berberian      | 0:56:48             | x                    |     x              |            |
 | Talene               | 0:38:52             | x                    |                    |           |
 | Vartanoush Shitilian | 0:33:02             | x                    |                     |          |
 | Anjel Iranian        | 0:45:35             | x                    |                      |         |
