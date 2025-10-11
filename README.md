@@ -15,7 +15,7 @@
 | Zarouhi Hamalian     | 0:43:29             | x                    |     x              |            |
 | Talar Berberian      | 0:56:48             | x                    |     x              |            |
 | Talene               | 0:38:52             | x                    |     x              |           |
-| Vartanoush Shitilian | 0:33:02             | x                    |                      |          |
+| Vartanoush Shitilian | 0:33:02             | x                    |    x                  |          |
 | Anjel Iranian        | 0:45:35             | x                    |                      |         |
 | Shushanik Nargozian        | 0:20:03             | x                    |                |               |
 
