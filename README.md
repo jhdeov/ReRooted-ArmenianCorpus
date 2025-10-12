@@ -17,7 +17,7 @@
 | Talene               | 0:38:52             | x                    |     x              |           |
 | Vartanoush Shitilian | 0:33:02             | x                    |    x                  |          |
 | Anjel Iranian        | 0:45:35             | x                    |                      |         |
-| Shushanik Nargozian        | 0:20:03             | x                    |                |               |
+| Shushanik Nargozian        | 0:20:03             | x                    | x               |               |
 
 
 
