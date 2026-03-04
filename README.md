@@ -21,8 +21,8 @@
 
 
 
-For my first pass, I automatically convert the SRT transcripts into TextGrids (using [SrtToTextgrid](https://github.com/rctatman/SrtToTextgrid)). I then manually clean up the TextGrid to catch missing words and to re-align the the utterance boundaries. It takes around 10hrs to clean up 1hr video. I first prioritze editing the Interviewee's speech. I then fix the Interviewer's. I then finally merge English translations with the Armenian dialogue
-
-My initial goal was to do a first pass for the first 10hrs of recordings. 
+I automatically convert the SRT transcripts into TextGrids (using [SrtToTextgrid](https://github.com/rctatman/SrtToTextgrid)). I then manually clean up the TextGrid to catch missing words and to re-align the utterance boundaries.
 
 The repo contains the cleaned up TextGrids. The accompanying sound file is stored on Google Drive. The link to the sound file is found in the [metadata](/metadata.tsv) file.
+
+There are English translations available on YouTube, and we will eventually like to integrate them with the corpus.
