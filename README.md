@@ -7,3 +7,5 @@ I automatically convert the SRT transcripts into TextGrids (using [SrtToTextgrid
 The repo contains the cleaned up TextGrids. The accompanying sound file is stored on Google Drive. The link to the sound file is found in the [metadata](/metadata.tsv) file.
 
 There are English translations available on YouTube, and we will eventually like to integrate them with the corpus.
+
+The data is also cataloged at the [Mozilla Data Collective](https://mozilladatacollective.com/datasets/cmp4ijosh00h9mp078ggnaatm).
